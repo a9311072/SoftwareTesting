@@ -30,6 +30,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RunManager">
+    <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PriorityQueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,6 +64,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1468" y="104" key="#Project_Structure/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586433244263" />
+    <state x="-1230" y="226" key="FileChooserDialogImpl" timestamp="1586435934120">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="226" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586435934120" />
     <state x="-1543" y="101" key="Maven.ArtifactSearchDialog" timestamp="1586432207000">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
