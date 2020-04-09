@@ -4,7 +4,7 @@ language: java
 
 jdk:
  - oraclejdk11
- - oraclejdk13
+# - oraclejdk13
 
 script:
  - "mvn test"
