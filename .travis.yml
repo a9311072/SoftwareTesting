@@ -8,8 +8,7 @@ jdk:
  - oraclejdk11
  - oraclejdk13
 
-install:
- - git clone https://github.com/a9311072/SoftwareTesting.git
- - cd SoftwareTesting/Lab4
- -
- script: mvn test
+git clone https://github.com/a9311072/SoftwareTesting.git
+cd SoftwareTesting/Lab4
+
+mvn test
