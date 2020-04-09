@@ -10,6 +10,6 @@ jdk:
 
 install:
  - git clone https://github.com/a9311072/SoftwareTesting.git
- - cd SoftwareTesting
+ - cd SoftwareTesting/Lab4
  -
  script: mvn test
