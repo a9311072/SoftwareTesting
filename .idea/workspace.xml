@@ -25,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -44,6 +44,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1468" y="104" key="#Project_Structure" timestamp="1586433244263">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1468" y="104" key="#Project_Structure/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586433244263" />
     <state x="-1543" y="101" key="Maven.ArtifactSearchDialog" timestamp="1586432207000">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
@@ -52,5 +56,9 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1572" y="8" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586432406181" />
+    <state x="-1758" y="62" key="new project wizard" timestamp="1586433373417">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1758" y="62" key="new project wizard/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586433373417" />
   </component>
 </project>
