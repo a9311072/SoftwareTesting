@@ -36,7 +36,7 @@ class PriorityQueueTest {
     public void PriorityQueueAddExceptionTest() {
         PriorityQueue<Integer> _number = new PriorityQueue();
         Throwable exception = assertThrows(NullPointerException.class, () -> _number.add(null));
-        assertEquals(null, exception.getMessage());
+        assertEquals(1, exception.getMessage());
     }
     @Test
     public void PriorityQueueAddAllExceptionTest() {
