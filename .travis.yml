@@ -1,5 +1,9 @@
+dist: xenial
+
+
 language: java
+
+
 jdk:
  - oraclejdk9
-
-git clone https://github.com/a9311072/SoftwareTesting.git
+ - oraclejdk11
