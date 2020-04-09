@@ -9,6 +9,5 @@ jdk:
  - oraclejdk13
 
 git clone https://github.com/a9311072/SoftwareTesting.git
-cd SoftwareTesting/Lab4
-
+cd SoftwareTesting
 mvn test
