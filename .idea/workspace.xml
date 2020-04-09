@@ -25,6 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -41,9 +44,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1575" y="86" key="SettingsEditor" timestamp="1586430398067">
+    <state x="-1543" y="101" key="Maven.ArtifactSearchDialog" timestamp="1586432207000">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1575" y="86" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586430398067" />
+    <state x="-1543" y="101" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586432207000" />
+    <state x="-1572" y="8" key="SettingsEditor" timestamp="1586432198897">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1572" y="8" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586432198897" />
   </component>
 </project>
