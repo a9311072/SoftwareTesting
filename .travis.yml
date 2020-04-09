@@ -1,23 +1,11 @@
 dist: xenial
 
-
 language: java
-
 
 jdk:
  - oraclejdk11
  - oraclejdk13
 
-#git clone https://github.com/a9311072/SoftwareTesting.git
-##cd SoftwareTesting
-#mvn test
-#
-#install:
-# - mvn install
-# - git clone https://github.com/a9311072/SoftwareTesting.git
-# - cd SoftwareTesting
-
 script:
  - "mvn test"
 
-# - mvn -Dtest="PriorityQueueTest.java" test
