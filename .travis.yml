@@ -12,11 +12,12 @@ jdk:
 ##cd SoftwareTesting
 #mvn test
 #
-#install:
+install:
+ - mvn install
 # - git clone https://github.com/a9311072/SoftwareTesting.git
 # - cd SoftwareTesting
 
 script:
  - "mvn test"
- 
+
 # - mvn -Dtest="PriorityQueueTest.java" test
