@@ -15,4 +15,7 @@ jdk:
 install:
  - git clone https://github.com/a9311072/SoftwareTesting.git $SoftwareTesting
  - cd SoftwareTesting
- - mvn -Dtest="PriorityQueueTest.java" test
+
+script:
+ - "mvn test"
+# - mvn -Dtest="PriorityQueueTest.java" test
