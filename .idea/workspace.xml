@@ -42,7 +42,7 @@
       <recent name="C:\Users\Admin\Downloads\Repo\SoftwareTesting\target\test-classes" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PriorityQueueTest">
     <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="PACKAGE_NAME" value="" />
@@ -52,9 +52,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PriorityQueueTest.PriorityQueueAddExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="METHOD_NAME" value="PriorityQueueAddExceptionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PriorityQueueTest" />
+        <item itemvalue="JUnit.PriorityQueueTest.PriorityQueueAddExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -80,22 +91,22 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1230" y="226" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586435934120" />
-    <state width="1850" height="266" key="GridCell.Tab.0.bottom" timestamp="1586438480785">
+    <state width="1850" height="266" key="GridCell.Tab.0.bottom" timestamp="1586439176503">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1850" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586438480785" />
-    <state width="1850" height="266" key="GridCell.Tab.0.center" timestamp="1586438480785">
+    <state width="1850" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586439176503" />
+    <state width="1850" height="266" key="GridCell.Tab.0.center" timestamp="1586439176503">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1850" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586438480785" />
-    <state width="1850" height="266" key="GridCell.Tab.0.left" timestamp="1586438480785">
+    <state width="1850" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586439176503" />
+    <state width="1850" height="266" key="GridCell.Tab.0.left" timestamp="1586439176503">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1850" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586438480785" />
-    <state width="1850" height="266" key="GridCell.Tab.0.right" timestamp="1586438480785">
+    <state width="1850" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586439176503" />
+    <state width="1850" height="266" key="GridCell.Tab.0.right" timestamp="1586439176503">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1850" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586438480785" />
+    <state width="1850" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1586439176503" />
     <state x="-1543" y="101" key="Maven.ArtifactSearchDialog" timestamp="1586432207000">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
