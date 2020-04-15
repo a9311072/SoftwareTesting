@@ -36,13 +36,13 @@ class PriorityQueueTest {
     public void PriorityQueueAddExceptionTest() {
         PriorityQueue<Integer> _number = new PriorityQueue();
         Throwable exception = assertThrows(NullPointerException.class, () -> _number.add(null));
-        assertEquals(null, exception.getMessage());
+        assertEquals(1, exception.getMessage());
     }
     @Test
     public void PriorityQueueAddAllExceptionTest() {
         PriorityQueue<Integer> _number = new PriorityQueue();
         Throwable exception = assertThrows(NullPointerException.class, () -> _number.addAll(null));
-        assertEquals(null, exception.getMessage());
+        assertEquals(2, exception.getMessage());
     }
     @Test
     public void PriorityQueueOfferExceptionTest() {
