@@ -43,7 +43,7 @@
       <recent name="C:\Users\Admin\Downloads\Repo\SoftwareTesting\target\test-classes" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PriorityQueueTest">
+  <component name="RunManager" selected="JUnit.PriorityQueueTest.PriorityQueueParameterTest">
     <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="PACKAGE_NAME" value="" />
@@ -63,8 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PriorityQueueTest.PriorityQueueParameterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueueTest" />
+      <option name="METHOD_NAME" value="PriorityQueueParameterTest(java.util.List,java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PriorityQueueTest.PriorityQueueParameterTest" />
         <item itemvalue="JUnit.PriorityQueueTest" />
         <item itemvalue="JUnit.PriorityQueueTest.PriorityQueueAddExceptionTest" />
       </list>
